@@ -1,0 +1,273 @@
+@-moz-document domain(jeuxvideo.com) {
+/*
+EN DEPIT DE ENT'S
+JEUNESSE & VALEURS
+*/
+
+.topic-list .topic-head {
+    background #000!important;
+    margin-bottom .125rem;
+    position relative;
+    line-height 1.5rem;
+    color #929299;
+    text-transform uppercase;
+    font-size .6875rem;
+    font-weight 700;
+}
+
+.layout,
+.bloc-default-profil {
+    background-color #030b1c!important;
+}
+
+.body,
+.text-cell {
+
+    background-color #102039ad!important;
+}
+
+/*
+.logo {
+    content url('httpsnsa40.casimages.comimg20210623210623033651846057.jpg')!important;
+    height 3.375rem!IMPORTANT;
+width 5rem!important; }
+*/
+
+.liste-sous-forums {
+    content url('httpsnsa40.casimages.comimg20210623210623033651846057.jpg')!important;
+    width 21rem!important;
+}
+
+
+.titre-bloc.titre-bloc-forum {
+    color #f0e9e9
+}
+
+
+.sideWootbox {
+    display none!important;
+}
+
+.btn,
+.button,
+.button-primary,
+.bloc-pagi-default .pagi-debut-actif,
+.bloc-pagi-default .pagi-fin-actif,
+.bloc-pagi-default .pagi-precedent-actif,
+.bloc-pagi-default .pagi-suivant-actif {
+    background #ff00008a!important;
+    color #f0e9e9!important;
+}
+
+.header h2,
+.actif {
+    color #ff00008a!important
+}
+
+
+.btn-jv-editor-toolbar {
+    background #000!important;
+}
+
+
+.layout--withBackground .layout__breadcrumb,
+.layout--withBackground .layout__content,
+.layout--withBackground .layout__contentAfter,
+.layout--withBackground .layout__contentAside,
+.layout--withBackground .layout__contentBefore,
+.layout--withBackground .layout__contentHeader,
+.layout--withBackground .layout__contentMain,
+.layout--withBackground .layout__contentMainMedia,
+.layout--withBackground .layout__contentMainMediaContainer,
+.layout--withBackground .layout__contentTop,
+.layout--withBackground .layout__contextBottom,
+.jv-footer,
+.video-footer-container,
+.external-links,
+.highlight {
+    background-color #102039!important;
+    border 2px solid #ffffff30!important;
+    color #fff;
+}
+
+.jv-header-top,
+.jv-header-menu,
+.jv-header-container,
+.jv-header-sticky {
+    background-color #102039ad!important;
+}
+.jv-header-menu {
+    border 2px solid #00000078!important;
+}
+
+.panel-heading {
+    visibility hidden;
+}
+
+.nb-connect-fofo {
+    visibility visible!important;
+}
+
+.nb-connect-fofobefore {
+    content Kheys sur le topic  
+}
+
+.topic-head {
+    background #000!important;
+}
+
+.topic-list,
+.form-post-topic,
+.titre-bloc-forum,
+.user-avatar-msg {
+    background #000!important;
+    border .2625rem solid #ff00001f!important;
+}
+.topic-author {
+    color #89a3ccc4!important;
+}
+
+.lien-jv,
+a {
+    color #7de6ff;
+    text-decoration none;
+    font-family arial!important;
+}
+
+.nav-link,
+.bloc-pseudo-msg {
+    color #c4c4c4!important;
+}
+
+.user-avatar-msg {
+    border-radius 0%!important;
+    height 120%!important;
+    width 120%!important;
+}
+
+.topic-list linth-of-type(2n),
+.topic-list li.dfp__atf ~ linth-of-type(odd),
+.row-mpnth-child(2n) {
+    background #171717!important;
+}
+
+.jv-footer,
+.video-footer-container,
+.external-links,
+.highlight {
+    display none!important;
+}
+
+.topic-list linth-of-type(odd),
+.topic-list li.dfp__atf ~ linth-of-type(2n),
+.row-mpnth-child(odd) {
+    background #000!important;
+}
+
+.bloc-message-forum {
+    margin-bottom .9375rem;
+    position relative;
+    font-size .9rem;
+    line-height 1.375rem;
+    background #000000bd!important;
+    border .2625rem solid #ff00001f!important;
+    border-radius .25rem;
+    font-family arial!important;
+    color #b9b0b0!important;
+    overflow hidden;
+}
+.dfp__atf {
+    visibility hidden!important;
+}
+
+.titre-head-bloc {
+    border-top .0rem solid #150000!important;
+}
+
+.panel-jv-forum {
+    background #102039!important;
+    border 0;
+    border-radius .25rem;
+    box-shadow none;
+    color #f0e9e9;
+    padding-bottom 1.25rem;
+    overflow hidden;
+}
+
+.lien-jv,
+.panel-jv-forum,
+.bloc-info-forum,
+.lien-jv,
+.panel-jv-forum,
+.bloc-sous-forums,
+.lien-jv {
+    color #bcbcc1!important;
+}
+
+.h4,
+.h5,
+.titre-info-fofo,
+.account-pseudo,
+.titre-bloc,
+.info-value,
+.bloc-description-desc,
+.txt-enrichi-desc-profil {
+    color #f0e9e9!important;
+}
+
+.bloc-pre-pagi-forum.bloc-outils-top {
+    border-bottom .00rem solid #ffffff30;
+    padding-bottom 1rem;
+    margin-bottom .625rem;
+}
+.bloc-rech-forum,
+.jv-nav-dropdown-container-top,
+.jv-nav-dropdown-container-bottom {
+    background #030b1c!important;
+}
+
+.jv-editor .conteneur-editor,
+.form-post-topic,
+.titre-discut {
+    background #01060d!important;
+    position relative;
+}
+
+textarea,
+input,
+select,
+.mp-menus,
+.col-md-3,
+.jv-nav-dropdown-container,
+.account {
+    background #102039!important;
+    color #b4b5b4!important;
+}
+
+.list-msg .row-head .date-msg,
+.list-msg .row-head .exp-msg,
+.list-msg .row-head .sujet-msg,
+.list-msg .row-head .sup-msg,
+.bloc-sous-forums,
+.bloc-sondage {
+    background #102039!important;
+}
+}
+
+@-moz-document url(httpswww.jeuxvideo.comforums0-51-0-1-0-1-0-blabla-18-25-ans.htm) {
+.titre-bloc.titre-bloc-forumafter {
+    content - Jeunesse & Valeurs!important;
+}
+
+.nb-connect-fofobefore {
+    content Kheys sur le forum  
+}
+
+
+.lien-jv,
+a {
+    color #929299!important;
+    text-decoration none;
+    font-family arial!important;
+}
+}
